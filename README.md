@@ -1,4 +1,5 @@
-# What Makes a Top 10 NBA Draft Pick? (CMSC 320 Final Project)
+# What Makes a Top 10 NBA Draft Pick?
+# CMSC 320 Final Project
 **Analyzing Player Attributes from Top 10 NBA First Round Draft Picks**
 
 Authors: Matthew Muccio, William Miller
@@ -9,7 +10,7 @@ Every June, the National Basketball Association (NBA) holds a draft, where each 
 
 Using the NBA data API for all players currently in the league, we will examine top 10 draft picks and see how they compare to all players in the league. Then we will make use of various individual player attributes to determine what properties correlate to top NBA draft picks. After having read through our data analysis, we hope that you will understand the importance of research and scouting that NBA teams undergo in selecting top draft picks.
 
-### Project Outline
+## Project Outline
 
 1. Project Introduction
   - A. Libraries and Dependencies
