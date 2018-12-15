@@ -1,7 +1,7 @@
-# What Makes a Top 10 NBA Draft Pick?
+# What Makes a Top 10 NBA Draft Pick? (CMSC 320 Final Project)
 **Analyzing Player Attributes from Top 10 NBA First Round Draft Picks**
 
-Authors: William Miller, Matthew Muccio
+Authors: Matthew Muccio, William Miller
 
 ## Project Abstract
 
